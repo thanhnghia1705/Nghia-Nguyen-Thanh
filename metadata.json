@@ -1,0 +1,7 @@
+{
+  "name": "Mystic Arts: Magic Circle Simulator",
+  "description": "An interactive augmented reality experience that generates Doctor Strange-style magic circles based on your hand movements using MediaPipe and Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
